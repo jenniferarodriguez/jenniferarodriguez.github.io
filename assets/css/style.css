@@ -8,11 +8,11 @@ body { background-color: #fff; padding: 0px; font: 17px/1.72 "Crimson Pro", seri
 
 .pub-row { display: flex; align-items: center; }
 
-.social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #13294B !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 0.9rem; transition: color 0.2s ease, transform 0.25s ease; }
+.social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #3f4443 !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 0.9rem; transition: color 0.2s ease, transform 0.25s ease; }
 
 .social-icons a:last-child { margin-right: 0; }
 
-.social-icons a:hover { background-color: transparent; color: #FF5F05 !important; transform: translateY(-4px); }
+.social-icons a:hover { background-color: transparent; color: #70071c !important; transform: translateY(-4px); }
 
 .icon-button { background-color: white; border-radius: 3.6rem; cursor: pointer; display: inline-block; font-size: 2.0rem; height: 3.6rem; line-height: 3.6rem; margin: 0 5px; position: relative; text-align: center; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; width: 3.6rem; }
 
@@ -66,19 +66,19 @@ position { font-size: 1.05rem; color: #555; display: block; }
 
 #header .image.avatar { margin: 0 0 1.1em 0; width: 8.00em; }
 
-h3, h4, h5, h6 { font-weight: 600; color: #13294B; margin: 0 0 16px; }
+h3, h4, h5, h6 { font-weight: 600; color: #3f4443; margin: 0 0 16px; }
 
-h1 { font-weight: 600; color: #13294B; margin: 0 0 5px; font-size: 1.55rem; letter-spacing: -0.01em; }
+h1 { font-weight: 600; color: #3f4443; margin: 0 0 5px; font-size: 1.55rem; letter-spacing: -0.01em; }
 
-h2 { color: #13294B; font-weight: 600; margin: 52px 0px 14px; font-size: 1.5rem; padding-bottom: 9px; border-bottom: 1.5px solid rgba(19,41,75,0.15); letter-spacing: 0.005em; }
+h2 { color: #3f4443; font-weight: 600; margin: 52px 0px 14px; font-size: 1.5rem; padding-bottom: 9px; border-bottom: 1.5px solid rgba(19,41,75,0.15); letter-spacing: 0.005em; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.2; }
 
-a { color: #0055a5; text-decoration: none; transition: color 0.15s ease; }
+a { color: #70071c; text-decoration: none; transition: color 0.15s ease; }
 
-a:hover { color: #13294B; }
+a:hover { color: #3f4443; }
 
 a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
@@ -148,9 +148,9 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .news-list li { font-size: 0.92em; line-height: 1.58; margin-bottom: 6px; }
 
-.textsectionheader2 { font-size: 0.82em; font-weight: 700; color: #13294B; margin: 28px 0 7px; letter-spacing: 0.06em; text-transform: uppercase; }
+.textsectionheader2 { font-size: 0.82em; font-weight: 700; color: #3f4443; margin: 28px 0 7px; letter-spacing: 0.06em; text-transform: uppercase; }
 
-.papericon { border: 1.5px solid #13294B; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.18); }
+.papericon { border: 1.5px solid #3f4443; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.18); }
 
 .member-card { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 14px 8px 12px; border-radius: 10px; transition: background-color 0.2s ease, box-shadow 0.2s ease; }
 
@@ -162,9 +162,9 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .memberrole-line { display: block; line-height: 1.2; }
 
-.group-link { display: inline-block; margin-bottom: 24px; font-family: 'Ubuntu Mono', monospace; font-size: 0.85rem; color: #13294B; border: 1px solid #13294B; border-radius: 5px; padding: 4px 12px; text-decoration: none; transition: background-color 0.2s ease, color 0.2s ease; }
+.group-link { display: inline-block; margin-bottom: 24px; font-family: 'Ubuntu Mono', monospace; font-size: 0.85rem; color: #3f4443; border: 1px solid #3f4443; border-radius: 5px; padding: 4px 12px; text-decoration: none; transition: background-color 0.2s ease, color 0.2s ease; }
 
-.group-link:hover { background-color: #13294B; color: #fff !important; text-decoration: none; }
+.group-link:hover { background-color: #3f4443; color: #fff !important; text-decoration: none; }
 
 .alumni-list { display: flex; flex-direction: column; gap: 2px; margin-top: 8px; margin-bottom: 24px; }
 
@@ -181,4 +181,4 @@ footer { width: 242px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .contact-list { list-style: none; padding: 0; margin: 0; }
 .contact-list li { margin-bottom: 8px; line-height: 1.62; }
 .contact-list li:last-child { margin-bottom: 0; }
-.contact-list i { color: #13294B; margin-right: 7px; }
+.contact-list i { color: #3f4443; margin-right: 7px; }

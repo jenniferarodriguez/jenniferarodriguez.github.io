@@ -1,6 +1,6 @@
 /* Top navigation bar */
 .topnav {
-    background-color: #13294B;
+    background-color: #70071c;
     position: fixed;
     z-index: 999;
     width: 100%;
@@ -50,7 +50,7 @@
     left: 10px;
     right: 10px;
     height: 2px;
-    background: #FF5F05;
+    background: #ba0c2f;
     transform: scaleX(0);
     transition: transform 0.2s ease;
 }
